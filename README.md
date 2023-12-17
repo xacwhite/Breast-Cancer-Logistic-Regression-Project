@@ -1,0 +1,1 @@
+This project uses a logistic regression model to predict if a tumor is malignant or benige the original data set can be found at https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
